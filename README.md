@@ -6,7 +6,9 @@ This is NOT public code, so I will not hand out access if it isnt for a good rea
 **FAQ**
 
 **Q: Why isn't there any server code?**
+<br>
 A: To prevent exploiters, I excluded the server code to keep the anti-cheat methods and preventions private. This was also a request from my client.
 
 **Q: Will this code ever be public?**
+<br>
 A: If the game ever dies, or we discontinue updates, i'll publish the full code in this repository. Otherwise, not in the near future.
